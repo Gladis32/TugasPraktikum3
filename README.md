@@ -57,3 +57,11 @@ Mengubah mode **constraint FOREIGN KEY** menjadi **ON UPDATE CASCADE ON DELETE S
 - **ON DELETE RESTRICT** digunakan untuk mencegah penghapusan baris dalam tabel induk (tabel dosen dalam contoh ini) jika ada baris yang masih dirujuk oleh kunci asing di tabel anak (tabel mahasiswa).
 - **ON UPDATE CASCADE** menyebabkan nilai kunci asing di tabel yang terkait juga diperbarui ketika nilai kunci utama diubah.
 - **Kesimpulannya**, penggunaan **RESTRICT** digunakan untuk mencegah kehilangan data yang masih diperlukan, sedangkan penggunaan **CASCADE** digunakan untuk mengupdate atau menghapus data secara otomatis pada tabel anak jika terjadi perubahan pada tabel induk. Pilihan antara RESTRICT dan CASCADE tergantung pada kebutuhan aplikasi dan situasi tertentu.
+- https://docs.google.com/document/d/11L-h8RqNV6j-3EtB7-v4c5UPaMVr24sXCOG3ajcsGKY/edit?usp=sharing
+
+
+### Sekian Tugas Praktikum Saya di Pertemuan kali ini. 
+
+### Jika Masih Ada Yang Salah Saya Mohon Maaf.
+
+### Wassalamualaikum wr.wb. 
